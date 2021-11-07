@@ -11,4 +11,9 @@ git branch -M main // changes main branch's name to 'main'
 
 git push -u origin main // pushes your repo from your local device to remote GitHub repo.
 
- 
+ // Git BRANCHES
+git branches allow us to work on a copy of main file without messing the original and only merge it after being
+satisfied with the results.
+
+git checkout -b 'branch-name-here' // Creates a new branch
+
