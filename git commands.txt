@@ -4,3 +4,11 @@ git add . or git add 'filename.txt' // Stage all files or stage a certain file, 
 
 git commit -m 'commit message here' // Commited files are saved in the local repo and ready to be pushed to GitHub.
 
+// Pushing to GitHub repository.
+git remote add origin 'repo link here' // Connects local repo to remote repo in GitHub.
+
+git branch -M main // changes main branch's name to 'main'
+
+git push -u origin main // pushes your repo from your local device to remote GitHub repo.
+
+ 
