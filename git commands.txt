@@ -1,0 +1,6 @@
+git init // Initialize git to start tracking your changes.
+
+git add . or git add 'filename.txt' // Stage all files or stage a certain file, files after this are ready to be commited.
+
+git commit -m 'commit message here' // Commited files are saved in the local repo and ready to be pushed to GitHub.
+
